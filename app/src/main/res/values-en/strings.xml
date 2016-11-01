@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vorprüfungsleistung</string>
+    <string name="authorModalTitle">Author</string>
+    <string name="back">Back</string>
+    <string name="backgroundcolor">Backgroundcolor</string>
+    <string name="bitcode">Bit-Code</string>
+    <string name="bold">Bold</string>
+    <string name="boldItalic">Bold and italic</string>
+    <string name="codeValue">Code value</string>
+    <string name="delete">Delete</string>
+    <string name="fontcolor">Fontcolor</string>
+    <string name="fontsize">Fontsize</string>
+    <string name="fontstyle">Fontstyle</string>
+    <string name="fonttype">Fonttype</string>
+    <string name="hexcode">Hex-Code</string>
+    <string name="italic">Italic</string>
+    <string name="killApp">Kill app</string>
+    <string name="maximumNumberCharacters">You can only enter 4 characters</string>
+    <string name="more">more ...</string>
+    <string name="normal">Normal</string>
+    <string name="pageValue">Page value</string>
+    <string name="showAuthorModal">Information about the author</string>
+    <string name="title_activity_main">Hex to unicode</string>
+    <string name="unicode">Unicode</string>
+
+    <string-array name="colorNames">
+        <item>Transparent</item>
+        <item>White</item>
+        <item>Gray</item>
+        <item>Black</item>
+        <item>Purple</item>
+        <item>Dark purple</item>
+        <item>Blue</item>
+        <item>Dark blue</item>
+        <item>Green</item>
+        <item>Dark green</item>
+        <item>Yellow</item>
+        <item>Gold</item>
+        <item>Orange</item>
+        <item>Dark orange</item>
+        <item>Red</item>
+        <item>Dark red</item>
+    </string-array>
+</resources>

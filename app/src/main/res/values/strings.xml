@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Vorprüfungsleistung</string>
+    <string name="title_activity_main">Hex zu Unicode</string>
+    <string name="hexcode">Hexcode</string>
+    <string name="bitcode">Bitcode</string>
+    <string name="unicode">Unicode</string>
+    <string name="delete">Löschen</string>
+    <string name="deleteLast" translatable="false">←</string>
+    <string name="pageValue">Seitenwert</string>
+    <string name="codeValue">Codewert</string>
+    <string name="decrement" translatable="false">▼</string>
+    <string name="increment" translatable="false">▲</string>
+    <string name="fontsize">Schriftgröße</string>
+    <string name="fonttype">Schriftart</string>
+    <string name="fontstyle">Schriftstyle</string>
+    <string name="fontcolor">Schriftfarbe</string>
+    <string name="backgroundcolor">Hintergrundfarbe</string>
+    <string name="normal">Normal</string>
+    <string name="bold">Fett</string>
+    <string name="italic">Kursiv</string>
+    <string name="boldItalic">Fett und kursiv</string>
+    <string name="maximumNumberCharacters">Es können nur maximal 4 Zeichen eingegeben werden.</string>
+
+    <string name="more">mehr ...</string>
+    <string name="back">Zurück</string>
+    <string name="showAuthorModal">Informationen über den Autor</string>
+    <string name="authorModalTitle">Autor</string>
+    <string name="killApp">App vollständig beenden</string>
+
+    <string name="authorName" translatable="false">Tobbe</string>
+
+    <string-array name="colorNames">
+        <item>Transparent</item>
+        <item>Weiß</item>
+        <item>Grau</item>
+        <item>Schwarz</item>
+        <item>Lila</item>
+        <item>Dunkellila</item>
+        <item>Blau</item>
+        <item>Dunkelblau</item>
+        <item>Grün</item>
+        <item>Dunkelgrün</item>
+        <item>Gelb</item>
+        <item>Gold</item>
+        <item>Orange</item>
+        <item>Dunkelorange</item>
+        <item>Rot</item>
+        <item>Dunkelrot</item>
+    </string-array>
+</resources>
